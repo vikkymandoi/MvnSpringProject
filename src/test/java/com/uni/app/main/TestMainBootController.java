@@ -2,7 +2,7 @@ package com.uni.app.main;
 
 import org.junit.Test;
 
-import junit.framework.Assert;
+import org.junit.*;
 
 public class TestMainBootController {
 	@Test
